@@ -1,0 +1,4 @@
+github.com/rapid7/go-get-proxied v0.0.0-20181210221417-16249a544090 h1:UKK+YjZ1XXs+fhehWgVtTIqr3rdSkOR+3JEtGj05Q4c=
+github.com/rapid7/go-get-proxied v0.0.0-20181210221417-16249a544090/go.mod h1:ELOKvSUbHx1oVeecsknc02S0eEAFD+TdV3rTt3BcNzM=
+golang.org/x/sys v0.0.0-20210915083310-ed5796bab164 h1:7ZDGnxgHAMw7thfC5bEos0RDAccZKxioiWBhfIe+tvw=
+golang.org/x/sys v0.0.0-20210915083310-ed5796bab164/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
